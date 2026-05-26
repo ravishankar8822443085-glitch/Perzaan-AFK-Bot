@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rezo96.aternos.me:56931",
+    "ip": "Rezo96.aternos.me",
     "port": 56931,
     "version": "1.21.1"
   },
